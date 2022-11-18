@@ -500,3 +500,29 @@
 
 //   console.log(ans1);
 
+
+// const obj={
+//   "name":"aqib"
+// }
+// delete obj.name;
+// obj.name1="john"
+// console.log(obj);
+
+// console.log(Math.ceil(Math.random() * 10) );
+// console.log(Math.pow(2,3));
+
+// console.log(Math.sqrt(3)/2);
+
+console.log("start");
+setTimeout(()=>{
+    console.log("time out");
+})
+console.log("1");
+
+setTimeout(()=>{
+    console.log("time out 2");
+})
+
+console.log("2");
+console.log("end");
+
